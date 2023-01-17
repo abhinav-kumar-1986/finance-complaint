@@ -23,6 +23,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+finance_artifact/
 .installed.cfg
 *.egg
 MANIFEST
